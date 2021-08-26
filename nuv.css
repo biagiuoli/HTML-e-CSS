@@ -1,0 +1,27 @@
+body{
+    background-color: #B0E0E6; /*Muda a cor de fundo*/
+    }
+    
+    #parag1	{
+    font-family: Calibri; /*formata o tipo de fonte*/
+    font-size: 20; /*formata o tamanho da fonte*/
+    color: black; /*formata a cor/
+    }
+    
+    #parag2   {
+    font-family: Calibri; /*formata o tipo de fonte*/
+    font-size: 20; /*formata o tamanho da fonte*/
+    color: black; /*formata a cor*/
+    }
+    
+    #parag3	{
+    font-family: Calibri; /*formata o tipo de fonte*/
+    font-size: 20; /*formata o tamanho da fonte*/
+    color: black; /*formata a cor*/
+    }
+    
+    #parag4	{
+        font-family: Calibri; /*formata o tipo de fonte*/
+        font-size: 20; /*formata o tamanho da fonte*/
+        color: black; /*formata a cor*/
+        }
